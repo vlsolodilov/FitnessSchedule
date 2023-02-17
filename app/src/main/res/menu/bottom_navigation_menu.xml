@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lessons_fragment"
+        android:icon="@drawable/lesson"
+        android:title="@string/lessons" />
+    <item
+        android:icon="@drawable/request"
+        android:title="@string/requests" />
+
+    <item
+        android:icon="@drawable/add"
+        android:title="@string/add" />
+
+    <item
+        android:icon="@drawable/chat"
+        android:title="@string/chat" />
+
+    <item
+        android:icon="@drawable/more"
+        android:title="@string/more" />
+</menu>

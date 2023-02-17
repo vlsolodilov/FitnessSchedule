@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FitnessSchedule</string>
+    <string name="lessons">Занятия</string>
+    <string name="requests">Заявки</string>
+    <string name="add">Добавить</string>
+    <string name="chat">Чат</string>
+    <string name="more">Еще</string>
+    <string name="schedule">Расписание</string>
+    <string name="error_message">Случилась какая-то ошибка :(\nПопробуем снова?</string>
+    <string name="try_again">Попробовать</string>
+</resources>
